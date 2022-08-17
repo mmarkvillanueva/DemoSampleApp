@@ -1,0 +1,14 @@
+{
+	"_Type": "Action.Type.Message",
+	"OnInvalidLog": {
+		"Message": "",
+		"Level": "Trace"
+	},
+	"OnFailureLog": {
+		"Message": "",
+		"Level": "Trace"
+	},
+	"Message": "Failed to save customer updates",
+	"Title": "Update Customer",
+	"OKCaption": "OK"
+}
